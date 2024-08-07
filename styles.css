@@ -49,3 +49,17 @@ header ul li a:hover{
     color: #000000;
     transition: 0.3s;
 }
+.img-container{
+    display: flex;
+    padding: 85px;
+    justify-content: flex-end;
+}
+.img-container img{
+    display: flex;
+    border-radius: 160px;
+    width: 350px;
+    height: 350px;
+}
+.content h1{
+    color: white
+}
